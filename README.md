@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b64ea1de-b516-4e07-98ea-c0a05ed84e15)# Online Book Store Analysis Using MYSQL
+# Online Book Store Analysis Using MYSQL
 ## Project Objective
 The goal is to analyze and manage a bookstore database using SQL. This will involve querying customer and book data, managing inventory, and analyzing sales trends.
 
